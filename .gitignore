@@ -1,0 +1,12 @@
+/审核/
+/private/
+*.rar
+*.zip
+*.7z
+*.pdf
+*.docx
+*.pptx
+*.xlsx
+*.tsv
+.env
+.env.*

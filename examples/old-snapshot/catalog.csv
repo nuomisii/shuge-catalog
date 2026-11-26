@@ -1,0 +1,2 @@
+node_id,item_id,revision,status,category,course,title,url
+demo-physics,old-001,1,active,试题,示例课程,撤回前的示例条目,https://example.com/demo/old

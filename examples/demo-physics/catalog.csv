@@ -1,0 +1,3 @@
+node_id,item_id,revision,status,category,course,title,url
+demo-physics,notes-001,1,active,教辅资料,示例课程,示例讲义,https://example.com/demo/notes
+demo-physics,old-001,2,withdrawn,,,,
