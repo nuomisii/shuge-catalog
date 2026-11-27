@@ -1,5 +1,7 @@
 # 第二批资料目录
 
+**校内试题与教辅**：[按课程分组逐份下载](逐份下载/README.md)。四六级继续提供原 ZIP，不拆单份。
+
 [查看 GitHub Release 和全部附件](https://github.com/nuomisii/shuge-catalog/releases/tag/resources-2026-11-27-batch-2)。
 
 第二批共有 **7 个可独立解压的 ZIP、1,486 项包内文件**，不统计内层压缩包的内容。无需拼接；按资料类别选包。
