@@ -12,6 +12,8 @@
 
 **首批资料已上线**：在 [GitHub Releases](https://github.com/nuomisii/shuge-catalog/releases/tag/resources-2026-11-27) 下载教辅和试题两个 ZIP，解压后按课程浏览。
 
+**第二批资料已上线**：从[第二批资料目录](第二批资料/README.md)按类别下载 7 个可独立解压的 ZIP。
+
 ## 可搜索目录工具 · Beta
 
 [微积分 I-1 逐份目录试点](逐份目录-Beta.md)是可搜索网页的 4 份试点样本；完整逐份下载请走上面的学院索引。目录页面可离线打开；逐份下载仍需网络，国内直连尚未重新验收。
