@@ -10,3 +10,4 @@
 *.tsv
 .env
 .env.*
+/tools-output/

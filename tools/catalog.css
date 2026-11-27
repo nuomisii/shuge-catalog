@@ -1,0 +1,4 @@
+.shuge-filters { display: flex; flex-wrap: wrap; gap: .8rem; margin: .3rem 0 .8rem; }
+.shuge-filters select, .shuge-filters button { font: inherit; padding: .25rem .45rem; }
+#csvtotable-table a { font-weight: 600; white-space: nowrap; }
+.csvtotable-theme { display: none !important; }
