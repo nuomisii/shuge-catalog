@@ -4,36 +4,36 @@
 
 ## 教辅资料（28 份）
 
-[前往首批教辅资料页下载整包](../../../资料目录/教辅资料.md)。下列是包内文件名，不是逐份下载链接。
+[前往首批教辅资料页下载整包](../../../资料目录/教辅资料.md)。也可点击下面的文件名逐份下载。
 
-- `11_第15章-动物如何运动&第16章-生殖与胚胎发育_2025.11.06.pdf`
-- `2_第二章-生命的化学基础_2025.09.25.pdf`
-- `3_第三章-细胞结构与细胞通讯_2025.10.09.pdf`
-- `5_第五章-细胞的分裂与分化_2025.10.20&10.23.pdf`
-- `6_第七章-营养与消化_2025.10.23&30.pdf`
-- `6_第六章-脊椎动物的结构与功能_2025.10.23.pdf`
-- `7_第九&十章-气体交换与呼吸&内环境的控制_11.03.pdf`
-- `7_第八章-血液与循环_2025.10.30.pdf`
-- `9_第11&12章-免疫系统与免疫功能&内分泌系统与体液调节_2025.11.03.pdf`
-- `2 植物的结构和营养-11.20.pdf`
-- `3 植物的调控系统-11.20.pdf`
-- `4 遗传的基本规律-11.27.pdf`
-- `5 基因的分子生物学-12.1.pdf`
-- `6 基因表达调控与基因工程-12.4.pdf`
-- `7 生物进化--12.11.pdf`
-- `8 生物多样性的进化-12.15.pdf`
-- `9 种群、群落生态学--12.18.pdf`
-- `01-绪论-简.pdf`
-- `02-生命的化学基础.pdf`
-- `03-细胞的基本结构与功能-简.pdf`
-- `04-细胞代谢1-呼吸作用-简.pdf`
-- `04-细胞代谢2-光合作用-简.pdf`
-- `05-细胞的分裂和分化-简.pdf`
-- `06-07-简.pdf`
-- `08-10-简.pdf`
-- `11-13-简.pdf`
-- `11_第15章-动物如何运动&第16章-生殖与胚胎发育_2022.11.10.pdf`
-- `14-16-简.pdf`
+- [`11_第15章-动物如何运动&第16章-生殖与胚胎发育_2025.11.06.pdf`](https://raw.githubusercontent.com/nuomisii/shuge-catalog/refs/heads/assets/first-batch-individual/pdf/%E6%99%AE%E9%80%9A%E7%94%9F%E7%89%A9%E5%AD%A6/%E6%95%99%E8%BE%85%E8%B5%84%E6%96%99/11_%E7%AC%AC15%E7%AB%A0-%E5%8A%A8%E7%89%A9%E5%A6%82%E4%BD%95%E8%BF%90%E5%8A%A8%26%E7%AC%AC16%E7%AB%A0-%E7%94%9F%E6%AE%96%E4%B8%8E%E8%83%9A%E8%83%8E%E5%8F%91%E8%82%B2_2025.11.06.pdf)
+- [`2_第二章-生命的化学基础_2025.09.25.pdf`](https://raw.githubusercontent.com/nuomisii/shuge-catalog/refs/heads/assets/first-batch-individual/pdf/%E6%99%AE%E9%80%9A%E7%94%9F%E7%89%A9%E5%AD%A6/%E6%95%99%E8%BE%85%E8%B5%84%E6%96%99/2_%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E7%94%9F%E5%91%BD%E7%9A%84%E5%8C%96%E5%AD%A6%E5%9F%BA%E7%A1%80_2025.09.25.pdf)
+- [`3_第三章-细胞结构与细胞通讯_2025.10.09.pdf`](https://raw.githubusercontent.com/nuomisii/shuge-catalog/refs/heads/assets/first-batch-individual/pdf/%E6%99%AE%E9%80%9A%E7%94%9F%E7%89%A9%E5%AD%A6/%E6%95%99%E8%BE%85%E8%B5%84%E6%96%99/3_%E7%AC%AC%E4%B8%89%E7%AB%A0-%E7%BB%86%E8%83%9E%E7%BB%93%E6%9E%84%E4%B8%8E%E7%BB%86%E8%83%9E%E9%80%9A%E8%AE%AF_2025.10.09.pdf)
+- [`5_第五章-细胞的分裂与分化_2025.10.20&10.23.pdf`](https://raw.githubusercontent.com/nuomisii/shuge-catalog/refs/heads/assets/first-batch-individual/pdf/%E6%99%AE%E9%80%9A%E7%94%9F%E7%89%A9%E5%AD%A6/%E6%95%99%E8%BE%85%E8%B5%84%E6%96%99/5_%E7%AC%AC%E4%BA%94%E7%AB%A0-%E7%BB%86%E8%83%9E%E7%9A%84%E5%88%86%E8%A3%82%E4%B8%8E%E5%88%86%E5%8C%96_2025.10.20%2610.23.pdf)
+- [`6_第七章-营养与消化_2025.10.23&30.pdf`](https://raw.githubusercontent.com/nuomisii/shuge-catalog/refs/heads/assets/first-batch-individual/pdf/%E6%99%AE%E9%80%9A%E7%94%9F%E7%89%A9%E5%AD%A6/%E6%95%99%E8%BE%85%E8%B5%84%E6%96%99/6_%E7%AC%AC%E4%B8%83%E7%AB%A0-%E8%90%A5%E5%85%BB%E4%B8%8E%E6%B6%88%E5%8C%96_2025.10.23%2630.pdf)
+- [`6_第六章-脊椎动物的结构与功能_2025.10.23.pdf`](https://raw.githubusercontent.com/nuomisii/shuge-catalog/refs/heads/assets/first-batch-individual/pdf/%E6%99%AE%E9%80%9A%E7%94%9F%E7%89%A9%E5%AD%A6/%E6%95%99%E8%BE%85%E8%B5%84%E6%96%99/6_%E7%AC%AC%E5%85%AD%E7%AB%A0-%E8%84%8A%E6%A4%8E%E5%8A%A8%E7%89%A9%E7%9A%84%E7%BB%93%E6%9E%84%E4%B8%8E%E5%8A%9F%E8%83%BD_2025.10.23.pdf)
+- [`7_第九&十章-气体交换与呼吸&内环境的控制_11.03.pdf`](https://raw.githubusercontent.com/nuomisii/shuge-catalog/refs/heads/assets/first-batch-individual/pdf/%E6%99%AE%E9%80%9A%E7%94%9F%E7%89%A9%E5%AD%A6/%E6%95%99%E8%BE%85%E8%B5%84%E6%96%99/7_%E7%AC%AC%E4%B9%9D%26%E5%8D%81%E7%AB%A0-%E6%B0%94%E4%BD%93%E4%BA%A4%E6%8D%A2%E4%B8%8E%E5%91%BC%E5%90%B8%26%E5%86%85%E7%8E%AF%E5%A2%83%E7%9A%84%E6%8E%A7%E5%88%B6_11.03.pdf)
+- [`7_第八章-血液与循环_2025.10.30.pdf`](https://raw.githubusercontent.com/nuomisii/shuge-catalog/refs/heads/assets/first-batch-individual/pdf/%E6%99%AE%E9%80%9A%E7%94%9F%E7%89%A9%E5%AD%A6/%E6%95%99%E8%BE%85%E8%B5%84%E6%96%99/7_%E7%AC%AC%E5%85%AB%E7%AB%A0-%E8%A1%80%E6%B6%B2%E4%B8%8E%E5%BE%AA%E7%8E%AF_2025.10.30.pdf)
+- [`9_第11&12章-免疫系统与免疫功能&内分泌系统与体液调节_2025.11.03.pdf`](https://raw.githubusercontent.com/nuomisii/shuge-catalog/refs/heads/assets/first-batch-individual/pdf/%E6%99%AE%E9%80%9A%E7%94%9F%E7%89%A9%E5%AD%A6/%E6%95%99%E8%BE%85%E8%B5%84%E6%96%99/9_%E7%AC%AC11%2612%E7%AB%A0-%E5%85%8D%E7%96%AB%E7%B3%BB%E7%BB%9F%E4%B8%8E%E5%85%8D%E7%96%AB%E5%8A%9F%E8%83%BD%26%E5%86%85%E5%88%86%E6%B3%8C%E7%B3%BB%E7%BB%9F%E4%B8%8E%E4%BD%93%E6%B6%B2%E8%B0%83%E8%8A%82_2025.11.03.pdf)
+- [`2 植物的结构和营养-11.20.pdf`](https://raw.githubusercontent.com/nuomisii/shuge-catalog/refs/heads/assets/first-batch-individual/pdf/%E6%99%AE%E9%80%9A%E7%94%9F%E7%89%A9%E5%AD%A6/%E6%95%99%E8%BE%85%E8%B5%84%E6%96%99/2%20%E6%A4%8D%E7%89%A9%E7%9A%84%E7%BB%93%E6%9E%84%E5%92%8C%E8%90%A5%E5%85%BB-11.20.pdf)
+- [`3 植物的调控系统-11.20.pdf`](https://raw.githubusercontent.com/nuomisii/shuge-catalog/refs/heads/assets/first-batch-individual/pdf/%E6%99%AE%E9%80%9A%E7%94%9F%E7%89%A9%E5%AD%A6/%E6%95%99%E8%BE%85%E8%B5%84%E6%96%99/3%20%E6%A4%8D%E7%89%A9%E7%9A%84%E8%B0%83%E6%8E%A7%E7%B3%BB%E7%BB%9F-11.20.pdf)
+- [`4 遗传的基本规律-11.27.pdf`](https://raw.githubusercontent.com/nuomisii/shuge-catalog/refs/heads/assets/first-batch-individual/pdf/%E6%99%AE%E9%80%9A%E7%94%9F%E7%89%A9%E5%AD%A6/%E6%95%99%E8%BE%85%E8%B5%84%E6%96%99/4%20%E9%81%97%E4%BC%A0%E7%9A%84%E5%9F%BA%E6%9C%AC%E8%A7%84%E5%BE%8B-11.27.pdf)
+- [`5 基因的分子生物学-12.1.pdf`](https://raw.githubusercontent.com/nuomisii/shuge-catalog/refs/heads/assets/first-batch-individual/pdf/%E6%99%AE%E9%80%9A%E7%94%9F%E7%89%A9%E5%AD%A6/%E6%95%99%E8%BE%85%E8%B5%84%E6%96%99/5%20%E5%9F%BA%E5%9B%A0%E7%9A%84%E5%88%86%E5%AD%90%E7%94%9F%E7%89%A9%E5%AD%A6-12.1.pdf)
+- [`6 基因表达调控与基因工程-12.4.pdf`](https://raw.githubusercontent.com/nuomisii/shuge-catalog/refs/heads/assets/first-batch-individual/pdf/%E6%99%AE%E9%80%9A%E7%94%9F%E7%89%A9%E5%AD%A6/%E6%95%99%E8%BE%85%E8%B5%84%E6%96%99/6%20%E5%9F%BA%E5%9B%A0%E8%A1%A8%E8%BE%BE%E8%B0%83%E6%8E%A7%E4%B8%8E%E5%9F%BA%E5%9B%A0%E5%B7%A5%E7%A8%8B-12.4.pdf)
+- [`7 生物进化--12.11.pdf`](https://raw.githubusercontent.com/nuomisii/shuge-catalog/refs/heads/assets/first-batch-individual/pdf/%E6%99%AE%E9%80%9A%E7%94%9F%E7%89%A9%E5%AD%A6/%E6%95%99%E8%BE%85%E8%B5%84%E6%96%99/7%20%E7%94%9F%E7%89%A9%E8%BF%9B%E5%8C%96--12.11.pdf)
+- [`8 生物多样性的进化-12.15.pdf`](https://raw.githubusercontent.com/nuomisii/shuge-catalog/refs/heads/assets/first-batch-individual/pdf/%E6%99%AE%E9%80%9A%E7%94%9F%E7%89%A9%E5%AD%A6/%E6%95%99%E8%BE%85%E8%B5%84%E6%96%99/8%20%E7%94%9F%E7%89%A9%E5%A4%9A%E6%A0%B7%E6%80%A7%E7%9A%84%E8%BF%9B%E5%8C%96-12.15.pdf)
+- [`9 种群、群落生态学--12.18.pdf`](https://raw.githubusercontent.com/nuomisii/shuge-catalog/refs/heads/assets/first-batch-individual/pdf/%E6%99%AE%E9%80%9A%E7%94%9F%E7%89%A9%E5%AD%A6/%E6%95%99%E8%BE%85%E8%B5%84%E6%96%99/9%20%E7%A7%8D%E7%BE%A4%E3%80%81%E7%BE%A4%E8%90%BD%E7%94%9F%E6%80%81%E5%AD%A6--12.18.pdf)
+- [`01-绪论-简.pdf`](https://raw.githubusercontent.com/nuomisii/shuge-catalog/refs/heads/assets/first-batch-individual/pdf/%E6%99%AE%E9%80%9A%E7%94%9F%E7%89%A9%E5%AD%A6/%E6%95%99%E8%BE%85%E8%B5%84%E6%96%99/01-%E7%BB%AA%E8%AE%BA-%E7%AE%80.pdf)
+- [`02-生命的化学基础.pdf`](https://raw.githubusercontent.com/nuomisii/shuge-catalog/refs/heads/assets/first-batch-individual/pdf/%E6%99%AE%E9%80%9A%E7%94%9F%E7%89%A9%E5%AD%A6/%E6%95%99%E8%BE%85%E8%B5%84%E6%96%99/02-%E7%94%9F%E5%91%BD%E7%9A%84%E5%8C%96%E5%AD%A6%E5%9F%BA%E7%A1%80.pdf)
+- [`03-细胞的基本结构与功能-简.pdf`](https://raw.githubusercontent.com/nuomisii/shuge-catalog/refs/heads/assets/first-batch-individual/pdf/%E6%99%AE%E9%80%9A%E7%94%9F%E7%89%A9%E5%AD%A6/%E6%95%99%E8%BE%85%E8%B5%84%E6%96%99/03-%E7%BB%86%E8%83%9E%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%BB%93%E6%9E%84%E4%B8%8E%E5%8A%9F%E8%83%BD-%E7%AE%80.pdf)
+- [`04-细胞代谢1-呼吸作用-简.pdf`](https://raw.githubusercontent.com/nuomisii/shuge-catalog/refs/heads/assets/first-batch-individual/pdf/%E6%99%AE%E9%80%9A%E7%94%9F%E7%89%A9%E5%AD%A6/%E6%95%99%E8%BE%85%E8%B5%84%E6%96%99/04-%E7%BB%86%E8%83%9E%E4%BB%A3%E8%B0%A21-%E5%91%BC%E5%90%B8%E4%BD%9C%E7%94%A8-%E7%AE%80.pdf)
+- [`04-细胞代谢2-光合作用-简.pdf`](https://raw.githubusercontent.com/nuomisii/shuge-catalog/refs/heads/assets/first-batch-individual/pdf/%E6%99%AE%E9%80%9A%E7%94%9F%E7%89%A9%E5%AD%A6/%E6%95%99%E8%BE%85%E8%B5%84%E6%96%99/04-%E7%BB%86%E8%83%9E%E4%BB%A3%E8%B0%A22-%E5%85%89%E5%90%88%E4%BD%9C%E7%94%A8-%E7%AE%80.pdf)
+- [`05-细胞的分裂和分化-简.pdf`](https://raw.githubusercontent.com/nuomisii/shuge-catalog/refs/heads/assets/first-batch-individual/pdf/%E6%99%AE%E9%80%9A%E7%94%9F%E7%89%A9%E5%AD%A6/%E6%95%99%E8%BE%85%E8%B5%84%E6%96%99/05-%E7%BB%86%E8%83%9E%E7%9A%84%E5%88%86%E8%A3%82%E5%92%8C%E5%88%86%E5%8C%96-%E7%AE%80.pdf)
+- [`06-07-简.pdf`](https://raw.githubusercontent.com/nuomisii/shuge-catalog/refs/heads/assets/first-batch-individual/pdf/%E6%99%AE%E9%80%9A%E7%94%9F%E7%89%A9%E5%AD%A6/%E6%95%99%E8%BE%85%E8%B5%84%E6%96%99/06-07-%E7%AE%80.pdf)
+- [`08-10-简.pdf`](https://raw.githubusercontent.com/nuomisii/shuge-catalog/refs/heads/assets/first-batch-individual/pdf/%E6%99%AE%E9%80%9A%E7%94%9F%E7%89%A9%E5%AD%A6/%E6%95%99%E8%BE%85%E8%B5%84%E6%96%99/08-10-%E7%AE%80.pdf)
+- [`11-13-简.pdf`](https://raw.githubusercontent.com/nuomisii/shuge-catalog/refs/heads/assets/first-batch-individual/pdf/%E6%99%AE%E9%80%9A%E7%94%9F%E7%89%A9%E5%AD%A6/%E6%95%99%E8%BE%85%E8%B5%84%E6%96%99/11-13-%E7%AE%80.pdf)
+- [`11_第15章-动物如何运动&第16章-生殖与胚胎发育_2022.11.10.pdf`](https://raw.githubusercontent.com/nuomisii/shuge-catalog/refs/heads/assets/first-batch-individual/pdf/%E6%99%AE%E9%80%9A%E7%94%9F%E7%89%A9%E5%AD%A6/%E6%95%99%E8%BE%85%E8%B5%84%E6%96%99/11_%E7%AC%AC15%E7%AB%A0-%E5%8A%A8%E7%89%A9%E5%A6%82%E4%BD%95%E8%BF%90%E5%8A%A8%26%E7%AC%AC16%E7%AB%A0-%E7%94%9F%E6%AE%96%E4%B8%8E%E8%83%9A%E8%83%8E%E5%8F%91%E8%82%B2_2022.11.10.pdf)
+- [`14-16-简.pdf`](https://raw.githubusercontent.com/nuomisii/shuge-catalog/refs/heads/assets/first-batch-individual/pdf/%E6%99%AE%E9%80%9A%E7%94%9F%E7%89%A9%E5%AD%A6/%E6%95%99%E8%BE%85%E8%B5%84%E6%96%99/14-16-%E7%AE%80.pdf)
 
 ## 试题（0 份）
 
